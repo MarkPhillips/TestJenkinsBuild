@@ -6,7 +6,7 @@ namespace TestJenkinsBuild
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World, Mark");
+            Console.WriteLine("Hello World, Mark Phillips");
         }
     }
 }
